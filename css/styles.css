@@ -70,9 +70,8 @@ section {
     color: #000;
 }
 
-.navbar__menu .menu__link:hover {
-    background: #333;
-    color: #fff;
+a:hover {
+    border: 2px solid rgb(24, 78, 148);
     transition: ease 0.3s all;
 }
 
